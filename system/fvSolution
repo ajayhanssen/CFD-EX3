@@ -44,7 +44,7 @@ SIMPLE
         Ux               1e-3;
         Uy               1e-3;
         Uz               1e-1;
-        "(k|epsilon|omega|f|v2)" 1e-3;
+        "(k|epsilon|omega|f|v2)" 1e-2;
     }
 }
 
