@@ -20,8 +20,8 @@ RAS
 {
     // Tested with kEpsilon, realizableKE, kOmega, kOmegaSST,
     // ShihQuadraticKE, LienCubicKE.
-    //RASModel        kEpsilon;
-    RASModel        LaunderSharmaKE;
+    RASModel        kOmegaSST;
+    //RASModel        LaunderSharmaKE;
 
     turbulence      on;
 
